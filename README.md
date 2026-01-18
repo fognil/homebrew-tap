@@ -1,11 +1,11 @@
 # Homebrew Tap
 
-Personal Homebrew tap for [hazenill](https://github.com/hazenill).
+Personal Homebrew tap for [fognil](https://github.com/fognil).
 
 ## Installation
 
 ```bash
-brew tap hazenill/tap
+brew tap fognil/tap
 brew install neatcli
 ```
 
@@ -13,7 +13,7 @@ brew install neatcli
 
 | Formula | Description |
 |---------|-------------|
-| [neatcli](https://github.com/hazenill/neatcli) | A smart CLI tool to organize and clean up messy directories |
+| [neatcli](https://github.com/fognil/neatcli) | A smart CLI tool to organize and clean up messy directories |
 
 ## Usage
 
@@ -33,4 +33,4 @@ neatcli watch ~/Downloads --auto
 
 ## More Info
 
-See the [neatcli repository](https://github.com/hazenill/neatcli) for full documentation.
+See the [neatcli repository](https://github.com/fognil/neatcli) for full documentation.
